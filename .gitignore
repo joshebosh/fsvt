@@ -1,0 +1,7 @@
+SignalWire_SMS/node_modules
+root/.ssh/id_rsa_fsvt
+root/.ssh/id_rsa_fsvt.pub
+root/.ssh/config
+root/.ssh/known_hosts
+root/.ssh/known_hosts.old
+root/.fs_cli_history
